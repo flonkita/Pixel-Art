@@ -6,7 +6,7 @@ Ce générateur de tableau de pixel art est un outil qui permet aux utilisateurs
 
 ## Utilisation 
 
-Voici un résumé des principales fonctionnalités et concepts associés à un générateur de tableau de pixel art :
+Voici un résumé des principales fonctionnalités et concepts associés au générateur de tableau de pixel art :
 
 - Grille de Pixels : L'interface du générateur présente une grille composée de petites cellules, représentant chaque pixel de l'image finale.
 
