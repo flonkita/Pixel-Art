@@ -19,6 +19,3 @@ Voici un résumé des principales fonctionnalités et concepts associés à un g
 - Conception Créative : Les générateurs de pixel art sont utilisés pour créer des images rétro, des icônes, des personnages de jeux vidéo, des animations simples, des logos et bien d'autres créations artistiques.
 
 - En somme, un générateur de tableau de pixel art est un outil ludique et créatif qui permet aux utilisateurs de donner vie à leurs idées artistiques en utilisant une approche basée sur des pixels colorés, rappelant l'esthétique des anciens jeux vidéo et des graphiques rétro.
-
-## Remerciments
-
